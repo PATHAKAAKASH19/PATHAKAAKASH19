@@ -1,7 +1,7 @@
 <h1 align="center">Hi fellow developer 👋, I'm Akash Pathak</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on [Imagine( where you can draw anything)](https://imagine-topaz.vercel.app/)
+- 🔭 I’m currently working on [Imagine (where you can draw anything)](https://imagine-topaz.vercel.app/)
 
 - 🌱 I’m currently learning **React**
 
@@ -23,3 +23,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathakaakash19&show_icons=true&locale=en&layout=compact" alt="pathakaakash19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pathakaakash19&" alt="pathakaakash19" /></p>
+
