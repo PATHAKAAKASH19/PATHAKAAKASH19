@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Imagine (where you can draw anything)](https://imagine-topaz.vercel.app/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Tailwind and Typescript**
 
 - 💬 Ask me about **React, node, express, mongodb**
 
