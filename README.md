@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Pathak</h1>
 <h3 align="center">👋 a passionate Full Stack Developer skilled in the MERN stack with TypeScript, building scalable and modern web applications.</h3>
 
-- 🔭 I’m currently working on [drawmify](https://drawmify.akash-pathak.xyz/)
-
 - 👨‍💻 All of my projects are available at [https://portfolio.akash-pathak.xyz/](https://portfolio.akash-pathak.xyz/)
 
 <h3 align="left">Connect with me:</h3>
